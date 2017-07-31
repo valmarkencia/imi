@@ -41,7 +41,7 @@
 		<input type="text" name="name" class="form-control" placeholder="Name">
 		<input type="email" name="name" class="form-control" placeholder="Email">
 		<textarea rows="5" name="name" class="form-control" placeholder="Message"></textarea>
-		<button class="btn btn-default pull-right">Send</button>
+		<button type="submit" class="btn btn-default pull-right">Send</button>
 	</form>
 </div>
 
