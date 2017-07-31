@@ -121,7 +121,7 @@
 					<div><img src="/img/KAILI.jpg"></div>
 				</div>
 				<div class="col-md-4">
-					<div><img src="/img/MASLAND.jpg"></div>
+					<div><img src="/img/Masland.jpg"></div>
 				</div>
 				<div class="col-md-4">
 					<div><img src="/img/KAILI.jpg"></div>
