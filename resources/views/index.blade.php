@@ -39,21 +39,21 @@
 		  <!-- Wrapper for slides -->
 		  <div class="carousel-inner">
 		    <div class="item active">
-		      <img src="/img/banner1.jpg" alt="Los Angeles">
+		      <img src="/img/banner1.jpg" alt="">
 		    </div>
 
 		    <div class="item">
-		      <img src="/img/banner2.jpg" alt="Chicago">
+		      <img src="/img/banner2.jpg" alt="">
 		    </div>
 
 		    <div class="item">
-		      <img src="/img/banner3.jpg" alt="New York">
+		      <img src="/img/banner3.jpg" alt="">
 		    </div>
 		    <div class="item">
-		      <img src="/img/banner4.jpg" alt="New York">
+		      <img src="/img/banner4.jpg" alt="">
 		    </div>
 		    <div class="item">
-		      <img src="/img/banner5.jpg" alt="New York">
+		      <img src="/img/banner5.jpg" alt="">
 		    </div>
 		  </div>
 
@@ -90,17 +90,17 @@
 	<div class="section">
 		<div class="section-title"><h2>Latest Projects</h2> </div>
 		<div class="row">
-			<div class="col-md-4">
+			<div class="col-sm-4">
 				<div class="projects" id="proj1">
 				<span class="img-title">Insular Life Makati Bldg.</span>
 				</div>
 			</div>
-			<div class="col-md-4">
+			<div class="col-sm-4">
 				<div class="projects" id="proj2">
 				<span class="img-title">Concur BPO</span>
 				</div>
 			</div>
-			<div class="col-md-4">
+			<div class="col-sm-4">
 				<div class="projects" id="proj3">
 				<span class="img-title">Picazo Buyco Tan Feder & Santos</span>
 				</div>

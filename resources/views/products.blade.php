@@ -36,37 +36,37 @@
 	<div class="section products">
 		<div class="section-title "><h2>Products</h2> </div>
 		<div class="row">
-			<div class="col-md-3">
+			<div class="col-sm-3 col-xs-12">
 				<div class="prod-img" style="background-image: url('/img/p carpet tiles.jpg');"></div>
 				<h3>Carpet Tiles</h4>
 			</div>
-			<div class="col-md-3">
+			<div class="col-sm-3 col-xs-12">
 				<div class="prod-img" style="background-image: url('/img/p hand tufted.jpg');"></div>
 				<h3>100% Wool Hand Tufted Carpet & Area Rugs</h4>
 			</div>
-			<div class="col-md-3">
+			<div class="col-sm-3 col-xs-12">
 				<div class="prod-img" style="background-image: url('/img/p axminster.jpg');"></div>
 				<h3>Hospitality Axminster Carpet</h4>
 			</div>
-			<div class="col-md-3">
+			<div class="col-sm-3 col-xs-12">
 				<div class="prod-img" style="background-image: url('/img/p axminster.jpg');"></div>
 				<h3>Broadloom Carpet</h4>
 			</div>
 		</div>
 		<div class="row" style="margin-top: 50px;">
-			<div class="col-md-3">
+			<div class="col-sm-3 col-xs-12">
 				<div class="prod-img" style="background-image: url('/img/p axminster.jpg');"></div>
 				<h3>Wallpaper</h4>
 			</div>
-			<div class="col-md-3">
+			<div class="col-sm-3 col-xs-12">
 				<div class="prod-img" style="background-image: url('/img/p axminster.jpg');"></div>
 				<h3>Laminate Flooring</h4>
 			</div>
-			<div class="col-md-3">
+			<div class="col-sm-3 col-xs-12">
 				<div class="prod-img" style="background-image: url('/img/p blinds.jpg');"></div>
 				<h3>Roll-up Shades and Blinds</h4>
 			</div>
-			<div class="col-md-3">
+			<div class="col-sm-3 col-xs-12">
 				<div class="prod-img" style="background-size: 100% auto; background-image: url('/img/p prof installer.jpg');"></div>
 				<h3>Professional Installers</h4>
 			</div>

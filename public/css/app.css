@@ -8551,3 +8551,62 @@ ul li {
   margin-bottom: 5px;
 }
 
+@media only screen and (max-width: 992px) {
+  .banner-img {
+    width: 80%;
+    margin: auto;
+    float: none;
+  }
+
+  .banner-text-container {
+    width: 90%;
+    margin: -5% auto auto auto;
+    padding: 5%;
+    background-color: #ffffff;
+  }
+
+  .banner-text {
+    width: 100%;
+  }
+
+  .projects {
+    min-height: 380px;
+  }
+
+  .img-title {
+    top: 180px;
+  }
+
+  .clients img {
+    width: 200px;
+    cursor: pointer;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .navbar-brand img {
+    width: 100px;
+    height: auto;
+  }
+
+  .projects {
+    width: 80%;
+    margin: auto auto 8% auto;
+    background-position: 100% 100% !important;
+  }
+
+  .img-title {
+    top: 180px;
+  }
+
+  footer {
+    display: none;
+  }
+
+  .contact-form {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
