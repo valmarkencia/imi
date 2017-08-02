@@ -115,7 +115,7 @@
 <div class="section">
 	<div class="white clients">
 		<div class="container">
-		<div class="section-title"><h2>Clients</h2><span class="subtitle">Our Business Partners</span></div>
+		<div class="section-title"><h2>Our Business Partners</h2></div>
 			<div class="row">
 				<div class="col-md-4">
 					<div><img src="/img/KAILI.jpg"></div>
@@ -142,8 +142,15 @@
 			</ul>
 		</div>
 
-		<div class="col-md-8">
+		<div class="col-md-4">
+			<div class="title"><h3>Contact Info</h3></div>
+			Email: <b>info@interiormotifinc.com</b> <br>
+			Phone: <b>(049) 536 1300</b> <br>
+			Address: <b>Unit 312 Humana Wellness Center Sta. Rosa, Laguna, Philippines 4026</b>
+		</div>
+		<div class="col-md-4">
 			<div class="title"><h3>Our Location</h3></div>
+			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1625.9028609510983!2d121.06241866801307!3d14.249109657004768!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x33bd7d47373269d9%3A0x1110e7cc0684289e!2sHumana!5e0!3m2!1sen!2sph!4v1501706321027" width="100%" height="200" frameborder="0" style="border:0" allowfullscreen></iframe>
 		</div>			
 	</div>
 </footer>
