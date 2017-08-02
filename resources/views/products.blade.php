@@ -49,17 +49,17 @@
 				<h3>Hospitality Axminster Carpet</h4>
 			</div>
 			<div class="col-sm-3 col-xs-12">
-				<div class="prod-img" style="background-image: url('/img/p axminster.jpg');"></div>
+				<div class="prod-img" style="background-image: url('/img/broadloom.jpg');"></div>
 				<h3>Broadloom Carpet</h4>
 			</div>
 		</div>
 		<div class="row" style="margin-top: 50px;">
 			<div class="col-sm-3 col-xs-12">
-				<div class="prod-img" style="background-image: url('/img/p axminster.jpg');"></div>
+				<div class="prod-img" style="background-image: url('/img/wallpaper.jpg');"></div>
 				<h3>Wallpaper</h4>
 			</div>
 			<div class="col-sm-3 col-xs-12">
-				<div class="prod-img" style="background-image: url('/img/p axminster.jpg');"></div>
+				<div class="prod-img" style="background-image: url('/img/laminate.jpg');"></div>
 				<h3>Laminate Flooring</h4>
 			</div>
 			<div class="col-sm-3 col-xs-12">
