@@ -67,7 +67,7 @@
 				<h3>Roll-up Shades and Blinds</h4>
 			</div>
 			<div class="col-sm-3 col-xs-12">
-				<div class="prod-img" style="background-size: 100% auto; background-image: url('/img/p prof installer.jpg');"></div>
+				<div class="prod-img" style="background-size: 100% auto; background-image: url('/img/profins.jpg');"></div>
 				<h3>Professional Installers</h4>
 			</div>
 		</div>
