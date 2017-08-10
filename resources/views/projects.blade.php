@@ -34,50 +34,22 @@
   </div><!-- /.container-fluid -->
 </nav>
 </div>
-<div class="section">
-	<div class="white clients">
-		<div class="container">
-		<div class="section-title"><h2>Clients</h2><span class="subtitle">We are known by the clients we keep.</span></div>
-			<div class="row">
-				<div class="col-md-4">
-					<div><img src="/img/KAILI.jpg"></div>
-				</div>
-				<div class="col-md-4">
-					<div><img src="/img/Masland.jpg"></div>
-				</div>
-				<div class="col-md-4">
-					<div><img src="/img/KAILI.jpg"></div>
-				</div>
-			</div>
-		</div>
-	</div>
-</div>
 
-<div class="container texts">
-	<div class="section">
-		<div class="section-title"><h2>Interior Designers and Architects</h2> </div>
-		<ul style="list-style: none;">
-			<li>Gerard Mendoza</li>
-			<li>Empire Designs</li>
-			<li>Jericho Adriano Architects and Associates</li>
-		</ul>
-	</div>
-</div>
 
 <div class="section texts">
 	<div class="white clients">
 		<div class="container">
-			<div class="section-title"><h2>Projects</h2> </div>
+			<div class="section-title"><h2>Some of our recent and notable projects</h2> </div>
 			<ul style="list-style: none;">
 				<li>Balenciaga Store</li>
 				<li>Concur BPO Makati</li>
 				<li>The Iglesia ni Cristo Museum</li>
 				<li>Insular Life Building Makati and Alabang</li>
 				<li>L'fishers Hotel Bacolod</li>
-				<li>Lous Vuitton Store (Greenbelt 5)</li>
+				<li>LANVAN Rockwell</li>
 				<li>Mandani Bay Hotel (Cebu)</li>
 				<li>New World Renaissance Hotel</li>
-				<li>Oracle Residences</li>
+				<li>Sitel BPO</li>
 				<li>PAGCOR Atrium Casino</li>
 				<li>PAGCOR Cavite Casino</li>
 				<li>PAGCOR Bacolod City</li>

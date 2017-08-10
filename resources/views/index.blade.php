@@ -82,11 +82,14 @@
 	<!-- end of banner image-->
 	<div class="banner-text-container">
 		<div class="banner-text">
-			<h1>Interior Motif</h1>
-			Most architects and designers regard us in high esteem due to its wide array of products, skillful installation and its unfailing commitment of delivery dates. The trademark of Carpetmasters Philippines, Inc. in servicing the carpet industry is the most valueable asset acquired by <b>Rugs Manufacturing & Trading Corp.</b>
+			<h1><span class="fadein">Your Vision</span>
+			<br>
+			<span class="fadein2">Our Execution</span></h1>
+
 		</div>
 	</div>
 	<!-- end of banner -->
+	<div class="clear"></div>
 	<div class="section">
 		<div class="section-title"><h2>Latest Projects</h2> </div>
 		<div class="row">

@@ -41,7 +41,7 @@
 				<h3>Carpet Tiles</h4>
 			</div>
 			<div class="col-sm-3 col-xs-12">
-				<div class="prod-img" style="background-image: url('/img/p hand tufted.jpg');"></div>
+				<div class="prod-img" style="background-image: url('/img/wool hand tufted.jpg');"></div>
 				<h3>100% Wool Hand Tufted Carpet & Area Rugs</h4>
 			</div>
 			<div class="col-sm-3 col-xs-12">
@@ -59,7 +59,7 @@
 				<h3>Wallpaper</h4>
 			</div>
 			<div class="col-sm-3 col-xs-12">
-				<div class="prod-img" style="background-image: url('/img/laminate.jpg');"></div>
+				<div class="prod-img" style="background-image: url('/img/laminate2.jpg');"></div>
 				<h3>Laminate Flooring</h4>
 			</div>
 			<div class="col-sm-3 col-xs-12">
@@ -67,7 +67,7 @@
 				<h3>Roll-up Shades and Blinds</h4>
 			</div>
 			<div class="col-sm-3 col-xs-12">
-				<div class="prod-img" style="background-size: 100% auto; background-image: url('/img/profins.jpg');"></div>
+				<div class="prod-img" style="background-size: 100% auto; background-image: url('/img/profinst.jpg');"></div>
 				<h3>Professional Installers</h4>
 			</div>
 		</div>
