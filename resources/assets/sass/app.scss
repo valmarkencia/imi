@@ -78,20 +78,20 @@ $red : #FE0505;
 .fadein
 {
 opacity: 0;
-	-webkit-animation: fadein 2s 2s forwards; /* Safari, Chrome and Opera > 12.1 */
-       -moz-animation: fadein 2s 2s forwards; /* Firefox < 16 */
-        -ms-animation: fadein 2s 2s forwards; /* Internet Explorer */
-         -o-animation: fadein 2s 2s forwards; /* Opera < 12.1 */
-            animation: fadein 2s 2s forwards;
-}
-.fadein2
-{
-opacity: 0;
 	-webkit-animation: fadein 2s 4s forwards; /* Safari, Chrome and Opera > 12.1 */
        -moz-animation: fadein 2s 4s forwards; /* Firefox < 16 */
         -ms-animation: fadein 2s 4s forwards; /* Internet Explorer */
          -o-animation: fadein 2s 4s forwards; /* Opera < 12.1 */
             animation: fadein 2s 4s forwards;
+}
+.fadein2
+{
+opacity: 0;
+	-webkit-animation: fadein 2s 6s forwards; /* Safari, Chrome and Opera > 12.1 */
+       -moz-animation: fadein 2s 6s forwards; /* Firefox < 16 */
+        -ms-animation: fadein 2s 6s forwards; /* Internet Explorer */
+         -o-animation: fadein 2s 6s forwards; /* Opera < 12.1 */
+            animation: fadein 2s 6s forwards;
 }
 body
 {
@@ -104,6 +104,14 @@ body
 h1, h2, h3, h4, h5, h6
 {
 	font-family: Playfair+Display;
+}
+h1
+{
+	font-size: 48px;
+}
+h2
+{
+	font-size: 36px;
 }
 
 .navbar
@@ -118,7 +126,7 @@ h1, h2, h3, h4, h5, h6
 
 .navbar-brand img
 {
-	width:250px;
+	width:275px;
 	height: auto;
 }
 
@@ -126,7 +134,7 @@ h1, h2, h3, h4, h5, h6
 {
 	margin-top: 10%;
 	width: 60%;
-	padding: 5%;
+	padding: 2%;
 	background-color: $main;
 }
 

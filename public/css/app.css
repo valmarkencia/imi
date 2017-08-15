@@ -8410,22 +8410,22 @@ button.close {
 
 .fadein {
   opacity: 0;
-  -webkit-animation: fadein 2s 2s forwards;
-  /* Safari, Chrome and Opera > 12.1 */
-  /* Firefox < 16 */
-  /* Internet Explorer */
-  /* Opera < 12.1 */
-  animation: fadein 2s 2s forwards;
-}
-
-.fadein2 {
-  opacity: 0;
   -webkit-animation: fadein 2s 4s forwards;
   /* Safari, Chrome and Opera > 12.1 */
   /* Firefox < 16 */
   /* Internet Explorer */
   /* Opera < 12.1 */
   animation: fadein 2s 4s forwards;
+}
+
+.fadein2 {
+  opacity: 0;
+  -webkit-animation: fadein 2s 6s forwards;
+  /* Safari, Chrome and Opera > 12.1 */
+  /* Firefox < 16 */
+  /* Internet Explorer */
+  /* Opera < 12.1 */
+  animation: fadein 2s 6s forwards;
 }
 
 body {
@@ -8446,6 +8446,14 @@ h6 {
   font-family: PlayfairDisplay;
 }
 
+h1 {
+  font-size: 48px;
+}
+
+h2 {
+  font-size: 36px;
+}
+
 .navbar {
   margin-top: 22px;
 }
@@ -8455,14 +8463,14 @@ h6 {
 }
 
 .navbar-brand img {
-  width: 250px;
+  width: 275px;
   height: auto;
 }
 
 .banner-text-container {
   margin-top: 10%;
   width: 60%;
-  padding: 5%;
+  padding: 2%;
   background-color: #ffffff;
 }
 

@@ -39,14 +39,15 @@
 <div class="section texts">
 	<div class="white clients">
 		<div class="container">
-			<div class="section-title"><h2>Some of our recent and notable projects</h2> </div>
+			<div class="section-title"><h2>Some of our recent and notable projects.</h2> </div>
 			<ul style="list-style: none;">
 				<li>Balenciaga Store</li>
 				<li>Concur BPO Makati</li>
 				<li>The Iglesia ni Cristo Museum</li>
-				<li>Insular Life Building Makati and Alabang</li>
-				<li>L'fishers Hotel Bacolod</li>
-				<li>LANVAN Rockwell</li>
+				<li>Insular Life Building Makati</li>
+				<li>Insular Life Building Alabang</li>
+				<li>L' Fisher Hotel Bacolod</li>
+				<li>LANVIN Rockwell</li>
 				<li>Mandani Bay Hotel (Cebu)</li>
 				<li>New World Renaissance Hotel</li>
 				<li>Sitel BPO</li>
