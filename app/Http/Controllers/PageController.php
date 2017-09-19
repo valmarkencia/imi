@@ -84,17 +84,24 @@ class PageController extends Controller
 
     public function sendContact(Request $request)
     {
+
         $this->validate($request, [
         'name' => 'required',
         'email' => 'required',
         'msg' => 'required',
         ]);
+
         $success = Mail::send('send', $request->toArray(), function ($message) {
                 $message->from('valmarkencia@gmail.com', 'Interior Motif Inc');
                 $message->to('valmarkencia@gmail.com');
                 $message->subject('Message from www.interiormotifinc.com');
             });
-
-            return back();
+        if(!$success){
+            return redirect()->back();
+        }
+         else
+        {
+            return 'error';
+        }
         }
 }

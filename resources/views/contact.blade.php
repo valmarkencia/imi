@@ -39,8 +39,8 @@
 	<form method="POST" action="/send">
 		{{ csrf_field() }}
 		<input type="text" name="name" class="form-control" placeholder="Name">
-		<input type="email" name="name" class="form-control" placeholder="Email">
-		<textarea rows="5" name="name" class="form-control" placeholder="Message"></textarea>
+		<input type="email" name="email" class="form-control" placeholder="Email">
+		<textarea rows="5" name="msg" class="form-control" placeholder="Message"></textarea>
 		<button type="submit" class="btn btn-default pull-right">Send</button>
 	</form>
 </div>
