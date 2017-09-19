@@ -10081,7 +10081,7 @@ h2 {
 }
 
 .section {
-  margin-top: 50px;
+  margin-top: 4%;
 }
 
 .projects img {
@@ -10189,7 +10189,7 @@ h2 {
 }
 
 footer {
-  margin-bottom: 50px;
+  margin-bottom: 4%;
 }
 
 .active {
@@ -10264,10 +10264,6 @@ ul li {
     position: relative;
   }
 
-  footer {
-    display: none;
-  }
-
   .contact-form {
     width: 80%;
     margin-left: auto;
@@ -10322,7 +10318,7 @@ ul li {
 }
 
 .section {
-  margin-top: 50px;
+  margin-top: 4%;
 }
 
 .projects img {
@@ -10424,7 +10420,7 @@ ul li {
 }
 
 footer {
-  margin-bottom: 50px;
+  margin-bottom: 4%;
 }
 
 .active {
@@ -10498,10 +10494,6 @@ ul li {
     background-position: 100% 100% !important;
   }
 
-  footer {
-    display: none;
-  }
-
   .contact-form {
     width: 80%;
     margin-left: auto;
@@ -10511,11 +10503,24 @@ ul li {
 
 @media only screen and (max-width: 480px) {
   h1 {
-    font-size: 36px;
+    font-size: 30px;
+  }
+
+  h2 {
+    font-size: 26px;
   }
 
   .banner-text h1 {
     text-align: center;
+  }
+
+  .clients .col-md-4 {
+    padding-top: 4%;
+    padding-bottom: 4%;
+  }
+
+  .clients img {
+    width: 130px;
   }
 }
 
