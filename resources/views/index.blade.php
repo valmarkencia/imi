@@ -4,7 +4,7 @@
 <head>
 	<title>Interior Motif Inc.</title>
 	<link href="https://fonts.googleapis.com/css?family=Playfair+Display" rel="stylesheet">
-	<link rel="stylesheet" type="text/css" href="/css/app.css">
+	<link rel="stylesheet" type="text/css" href="/css/master.css">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 </head>
 <body>
@@ -121,13 +121,13 @@
 		<div class="section-title"><h2>Our Business Partners</h2></div>
 			<div class="row">
 				<div class="col-md-4">
-					<div><img src="/img/KAILI.jpg"></div>
+					<div><img src="/img/KAILI.png"></div>
 				</div>
 				<div class="col-md-4">
-					<div><img src="/img/Masland.jpg"></div>
+					<div><img src="/img/Masland.png"></div>
 				</div>
 				<div class="col-md-4">
-					<div><img src="/img/KAILI.jpg"></div>
+					<div><img src="/img/zhemei.png"></div>
 				</div>
 			</div>
 		</div>
