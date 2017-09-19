@@ -89,12 +89,10 @@ class PageController extends Controller
         'email' => 'required',
         'msg' => 'required',
         ]);
-        $data = request()->all();
-
-            Mail::send('send', $data, function ($message) {
+        $success = Mail::send('send', $request->toArray(), function ($message) {
                 $message->from('valmarkencia@gmail.com', 'Interior Motif Inc');
                 $message->to('valmarkencia@gmail.com');
-                $message->subject('Enquiry from website contact form');
+                $message->subject('Message from www.interiormotifinc.com');
             });
 
             return back();
