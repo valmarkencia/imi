@@ -6,6 +6,14 @@
 	<link href="https://fonts.googleapis.com/css?family=Playfair+Display" rel="stylesheet">
 	<link rel="stylesheet" type="text/css" href="/css/master.css">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+	<meta name="csrf-token" content="{{ csrf_token() }}">
+	<script type="text/javascript">
+      var onloadCallback = function() {
+        grecaptcha.render('captcha', {
+          'sitekey' : '6LdkbTEUAAAAAEmOExFVS-gF87p-r8PPPWmF9Dfa'
+        });
+      };
+    </script>
 </head>
 <body>
 <div class="container">
@@ -36,12 +44,18 @@
 
 <div class="contact-form">
 <div class="section-title"><h2>Contact Us</h2> </div>
+@if (\Session::has('success'))
+<div class="alert alert-success alert-dismissible" role="alert">{{ Session::get('success') }}</div>
+@elseif (\Session::has('error'))
+<div class="alert alert-danger alert-dismissible" role="alert">{{ Session::get('error') }}</div>
+@endif
 	<form method="POST" action="/send">
 		{{ csrf_field() }}
 		<input type="text" name="name" class="form-control" placeholder="Name">
 		<input type="email" name="email" class="form-control" placeholder="Email">
 		<textarea rows="5" name="msg" class="form-control" placeholder="Message"></textarea>
-		<button type="submit" class="btn btn-default pull-right">Send</button>
+		<div id="captcha"></div>
+		<button type="submit" class="btn btn-default pull-right" id="capt">Send</button>
 	</form>
 </div>
 
@@ -71,6 +85,25 @@
 		</div>		
 	</div>
 </footer>
-<script type="text/javascript" src="/js/app.js"></script>
+<script type="text/javascript" src="https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit"
+        async defer>
+</script>
+<script type="text/javascript" src="/js/master.js"></script>
+<script type="text/javascript">
+	$(function(){
+		$('#capt').click(function(e){
+			e.preventDefault();
+			if(grecaptcha.getResponse())
+			{
+				$('form').submit();
+			}
+		});
+	});
+</script>
+<script>
+window.Laravel = <?php echo json_encode([
+    'csrfToken' => csrf_token()
+]); ?>
+</script>
 </body>
 </html>

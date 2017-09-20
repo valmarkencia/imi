@@ -158,6 +158,6 @@
 		</div>			
 	</div>
 </footer>
-<script type="text/javascript" src="/js/app.js"></script>
+<script type="text/javascript" src="/js/master.js"></script>
 </body>
 </html>

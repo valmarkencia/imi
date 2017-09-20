@@ -25,3 +25,7 @@ mix.styles([
     'public/css/animate.css',
     'public/css/app.css'
 ], 'public/css/master.css');
+mix.scripts([
+    'public/js/bootstrap.js',
+    'public/js/app.js'
+], 'public/js/master.js');
