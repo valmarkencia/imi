@@ -110,7 +110,7 @@ class PageController extends Controller
             }
         else
         {
-            return redirect()->back();
+            return redirect()->back()->with('error', 'Something went wrong, please try again.');
         }
         
     }
