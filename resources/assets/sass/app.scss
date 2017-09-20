@@ -532,7 +532,18 @@ ul li
 footer {
   margin-bottom: 4%;
 }
-
+footer a
+{
+  color: #4d4d4d; 
+}
+footer a:hover
+{
+  background-color: transparent !important; 
+  color: #4d4d4d;
+}
+footer .nav > li > a {
+    padding: 0 !important;
+}
 .active {
   font-weight: 700;
 }

@@ -93,7 +93,7 @@ class PageController extends Controller
 
         $success = Mail::send('send', $request->toArray(), function ($message) {
                 $message->from('valmarkencia@gmail.com', 'Interior Motif Inc');
-                $message->to('valmarkencia@gmail.com');
+                $message->to('interiormotifinc@yahoo.com');
                 $message->subject('Message from www.interiormotifinc.com');
             });
         if(!$success){
