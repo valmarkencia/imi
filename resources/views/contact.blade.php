@@ -50,10 +50,10 @@
 		<div class="col-md-4">
 			<div class="title"><h3>Browse Our Site</h3></div>
 			<ul class="nav nav-stacked">
-				<li class="active">Home</li>
-				<li>Projects</li>
-				<li>Products</li>
-				<li>Contact Us</li>
+				<li class="active"><a href="/">Home</a></li>
+				<li><a href="/projects">Projects</a></li>
+				<li><a href="/products">Products</a></li>
+				<li><a href="/contact">Contact Us</a></li>
 			</ul>
 		</div>
 
