@@ -3,7 +3,6 @@
 <html>
 <head>
 	<title>Interior Motif Inc.</title>
-	<link href="https://fonts.googleapis.com/css?family=Playfair+Display" rel="stylesheet">
 	<link rel="stylesheet" type="text/css" href="/css/master.css">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 </head>
@@ -148,7 +147,9 @@
 		<div class="col-md-4">
 			<div class="title"><h3>Contact Info</h3></div>
 			Email: <b>info@interiormotifinc.com</b> <br>
-			Phone: <b>(049) 536 1300</b> <br>
+			Tel: <b><a href="tel:(049)5361300"></a>(049) 536 1300</b> <br>
+			Phone: <b><a href="tel:+639069425078"></a>+639069425078</b> <br>
+			Phone: <b><a href="tel:+639173245941"></a>+639173245941</b> <br>
 			Address: <b>Unit 312 Humana Wellness Center Sta. Rosa, Laguna, Philippines 4026</b>
 		</div>
 		<div class="col-md-4">
