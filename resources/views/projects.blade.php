@@ -3,6 +3,7 @@
 <html>
 <head>
 	<title>Interior Motif Inc. - Projects</title>
+	<link rel="stylesheet" type="text/css" href="/bootstrap/css/bootstrap.min.css">
 	<link rel="stylesheet" type="text/css" href="/css/master.css">
 	<meta name="csrf-token" content="{{ csrf_token() }}">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
